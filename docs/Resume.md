@@ -23,6 +23,7 @@ Softwarekennis
 > + Dreamweaver
 > + Textpad
 > + Visual Studio 2012
+
 Contactinformatie
 -------------
 > + Adres: Goedendaglaan 147 Kortrijk
